@@ -498,7 +498,9 @@ hr{
     padding: 5px;
     margin: 3% 0px;
 }
-
+.margin-btn{
+    margin: 4% 0% 1% 46%;
+}
 #sec9 textarea{
     border: 1px solid #dcd7d7;
     border-top: none;
