@@ -6,12 +6,12 @@
 
 ul{
     list-style: none;
-    width:120%;
+    width:100%;
     
 }
 .links{
     float: right;
-    width: 45%;
+    width: 46%;
 }
 .font-orange{
     color:#ef811b;
@@ -125,7 +125,7 @@ li , a{
     color:white;
 } 
  nav li{
-    margin-left: 12%;
+    margin-left: 8%;
     font-size: 19px;
     
 }
