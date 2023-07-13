@@ -119,6 +119,10 @@ html{
 nav{
     background-color: black;
     padding: 12px  0 ;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+
 }
 
 li , a{ 
@@ -165,7 +169,17 @@ hr{
  border: 2px white solid;
  color:white
 }
-
+.arrow{
+    background-color: #ef811b;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 2.8;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 3%;
+    right: 3%;
+}
 .formdiv{
     width:25%;
     background-color: white;
